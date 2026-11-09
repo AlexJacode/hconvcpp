@@ -1,4 +1,4 @@
-# hconvcpp
+# <p align="center"> hconvcpp
 <p align="center"> Hexadecimal Converter (Text String/ASCII To Hex) Rewritten To C++ 
 <p align="center"> Originally Compiled With G++ (GNU/GCC) 
 
